@@ -472,7 +472,10 @@
     "skills.json",
     "docs/validation.md",
     "docs/dab-models.md",
-    "pyproject.toml"
+    "pyproject.toml",
+    "docs/architecture.md",
+    "docs/dab-sps-control-spec.md",
+    "docs/development.md"
   ],
   "extensions": {
     "aipe.skills": {
